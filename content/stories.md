@@ -66,3 +66,5 @@ comment: false
 [晨昏测不准原理](/posts/uncertainty-principle-of-the-terminator-line)
 
 [长夜遗录：折叠引擎B-D126E3模组图纸(未提交)](/posts/b-d126e3)
+
+[他所刺伤的地方](/posts/where-he-left-the-wound)
