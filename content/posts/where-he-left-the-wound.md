@@ -18,6 +18,7 @@ tags:
   - Eromayne Eehe
   - Emil Holline
   - Kr
+  - Shaln
 categories:
   - Main Stories
 hiddenFromHomePage: false
